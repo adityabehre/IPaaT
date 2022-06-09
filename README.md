@@ -1,12 +1,12 @@
 # IPaaT
 
-IPaaT or Incremental Progress as a Teenager is an iOS app in developement to share lessons in mental management and anxiety reduction through cognitive development and grounding techniques.
+#### IPaaT or Incremental Progress as a Teenager is an iOS app in developement to share lessons in mental management and anxiety reduction through cognitive development and grounding techniques.
 
-The app features a comfortable and relaxing UI in which different lessons are displayed as cards to easily navigate and peruse through the lessons. A feature to be added is to display the lessons as instagram stories to invoke the feeling of a calm slideshow.
+#### The app features a comfortable and relaxing UI in which different lessons are displayed as cards to easily navigate and peruse through the lessons. A feature to be added is to display the lessons as instagram stories to invoke the feeling of a calm slideshow.
 
-App will be launched into the app store circa late 2022.
+#### App will be launched into the app store circa late 2022.
 
-#### Why was IPaaT created?
+### Why was IPaaT created?
 
 During COVID, I saw a decline in the mental health of many of my peers while we all worked through our classes remotely. Friends expressed how they were stressed balancing being stuck at home with engaging with school, and they discussed the effects of isolation. Hearing their experiences, I played with the idea of writing a book to help them. My dad had lectured me life lessons to me countless times: clean your plate (get done with tasks), know your limits, tackle your imposter syndrome, and recover from disappointment (or else your embarrassment will shut you down). I reflected on how these lessons had helped me stay sane during COVID and assess myself to become a better person overall. I also recounted how the grounding techniques that my counselor had given me such as counting my breath and meditation helped me to manage my stress and proceed forward as my best person. What if I could share these pieces of wisdom and techniques with my peers so they could receive the same benefit that I had?
 
